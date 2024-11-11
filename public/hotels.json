@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Hotel Paradiso",
+        "image": "",
+        "location": "Roma, Italia",
+        "description": "Un hotel di lusso situato nel cuore di Roma.",
+        "roomType": "Suite",
+        "pricePerNight": 250,
+        "availability": true,
+        "latitude": 41.9028,
+        "longitude": 12.4964
+    },
+    {
+        "id": 2,
+        "name": "Albergo Serenità",
+        "image": "",
+        "location": "Firenze, Italia",
+        "description": "Un accogliente albergo con vista sulla città di Firenze.",
+        "roomType": "Doppia",
+        "pricePerNight": 150,
+        "availability": false,
+        "latitude": 43.7696,
+        "longitude": 11.2558
+    },
+    {
+        "id": 3,
+        "name": "Hotel Bella Vista",
+        "image": "",
+        "location": "Venezia, Italia",
+        "description": "Un hotel con una splendida vista sui canali di Venezia.",
+        "roomType": "Singola",
+        "pricePerNight": 100,
+        "availability": true,
+        "latitude": 45.4408,
+        "longitude": 12.3155
+    },
+    {
+        "id": 4,
+        "name": "Residenza Sole Mare",
+        "image": "",
+        "location": "Napoli, Italia",
+        "description": "Una residenza elegante vicino al mare.",
+        "roomType": "Suite",
+        "pricePerNight": 300,
+        "availability": true,
+        "latitude": 40.8518,
+        "longitude": 14.2681
+    },
+    {
+        "id": 5,
+        "name": "Locanda del Lago",
+        "image": "",
+        "location": "Como, Italia",
+        "description": "Una locanda pittoresca sulle rive del Lago di Como.",
+        "roomType": "Doppia",
+        "pricePerNight": 180,
+        "availability": false,
+        "latitude": 45.8081,
+        "longitude": 9.0852
+    },
+    {
+        "id": 6,
+        "name": "Hotel delle Alpi",
+        "image": "",
+        "location": "Cortina d'Ampezzo, Italia",
+        "description": "Un hotel accogliente nelle Dolomiti.",
+        "roomType": "Singola",
+        "pricePerNight": 120,
+        "availability": true,
+        "latitude": 46.5405,
+        "longitude": 12.1357
+    },
+    {
+        "id": 7,
+        "name": "Grand Hotel Milano",
+        "image": "",
+        "location": "Milano, Italia",
+        "description": "Un hotel moderno nel centro di Milano.",
+        "roomType": "Suite",
+        "pricePerNight": 200,
+        "availability": true,
+        "latitude": 45.4642,
+        "longitude": 9.1900
+    },
+    {
+        "id": 8,
+        "name": "Hotel Riviera",
+        "image": "",
+        "location": "Rimini, Italia",
+        "description": "Un hotel sul lungomare di Rimini.",
+        "roomType": "Doppia",
+        "pricePerNight": 140,
+        "availability": true,
+        "latitude": 44.0678,
+        "longitude": 12.5695
+    },
+    {
+        "id": 9,
+        "name": "Hotel Centrale",
+        "image": "",
+        "location": "Bologna, Italia",
+        "description": "Un hotel situato nel centro storico di Bologna.",
+        "roomType": "Suite",
+        "pricePerNight": 220,
+        "availability": false,
+        "latitude": 44.4949,
+        "longitude": 11.3426
+    },
+    {
+        "id": 10,
+        "name": "Hotel Mediterraneo",
+        "image": "",
+        "location": "Palermo, Italia",
+        "description": "Un hotel elegante vicino al mare.",
+        "roomType": "Singola",
+        "pricePerNight": 130,
+        "availability": true,
+        "latitude": 38.1157,
+        "longitude": 13.3615
+    }
+]
